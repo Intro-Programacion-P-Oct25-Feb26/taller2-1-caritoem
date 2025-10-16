@@ -15,6 +15,6 @@ public class Proyecto01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+    }System.out.printnl("Paris L/N");)
     
 }
